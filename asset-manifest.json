@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Incrementer-Decrementer/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/Incrementer-Decrementer/static/js/main.2671d650.chunk.js",
+    "main.js.map": "/Incrementer-Decrementer/static/js/main.2671d650.chunk.js.map",
+    "runtime-main.js": "/Incrementer-Decrementer/static/js/runtime-main.dd1ce9f2.js",
+    "runtime-main.js.map": "/Incrementer-Decrementer/static/js/runtime-main.dd1ce9f2.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Incrementer-Decrementer/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.b529bb7b.chunk.js": "/Incrementer-Decrementer/static/js/2.b529bb7b.chunk.js",
+    "static/js/2.b529bb7b.chunk.js.map": "/Incrementer-Decrementer/static/js/2.b529bb7b.chunk.js.map",
+    "static/js/3.60de9798.chunk.js": "/Incrementer-Decrementer/static/js/3.60de9798.chunk.js",
+    "static/js/3.60de9798.chunk.js.map": "/Incrementer-Decrementer/static/js/3.60de9798.chunk.js.map",
+    "index.html": "/Incrementer-Decrementer/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Incrementer-Decrementer/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.4a4137e4.chunk.css.map": "/Incrementer-Decrementer/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.b529bb7b.chunk.js.LICENSE.txt": "/Incrementer-Decrementer/static/js/2.b529bb7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd1ce9f2.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.b529bb7b.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.2671d650.chunk.js"
+  ]
+}
